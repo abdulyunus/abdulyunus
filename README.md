@@ -8,7 +8,7 @@ alt="GitHub Mark" />
 
 
 
-### Hi, I'm Yunus 👋  
+### Hi, I'm Abdul Yunus 👋  
 ![Profile Visitors](https://komarev.com/ghpvc/?username=abdulyunus&color=0e75b6)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-yunus-85655928/)
@@ -88,6 +88,18 @@ Strong emphasis on **data quality, scalability, and monitoring**.
 - ML deployment & monitoring
 
 ---
+
+---
+## 📜 Certifications
+
+> **Certifications**:  
+Here are some of my most reputed certifications that reflect my expertise in data science, machine learning, and AI technologies:
+
+### 📜 Data Science & Machine Learning
+- **Gen AI workshop** – Indian Institute of Technology, Hyderabad (Issued April 2025)  
+- **Machine Learning** – Cornell University (Issued April 2023)
+
+> **For more certifications, feel free to check my [LinkedIn Profile](https://www.linkedin.com/in/abdul-yunus-85655928/).**
 
 ## 🚀 GitHub Stats
 
