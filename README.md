@@ -1,6 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&multiline=true&width=900&height=110&lines=Lead+Data+Scientist+%7C+ML+Engineer+%7C+Data+Engineer;Demand+Forecasting+%7C+Supply+Chain+Analytics;Production+ML+Systems+%7C+Cloud+%7C+MLOps)](https://git.io/typing-svg)
 
-<img align="left" width="150" height="150" src="https://github.com/github/explore/raw/main/topics/octocat/octocat.png" alt="profile image">
+<img align="left" width="150" height="150"
+src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+alt="GitHub Mark" />
+
+
+
+
 
 ### Hi, I'm Yunus 👋  
 ![Profile Visitors](https://komarev.com/ghpvc/?username=abdulyunus&color=0e75b6)
@@ -32,6 +38,10 @@ My work focuses on **real-world business problems**, especially in **retail, sup
         </td>
         <td align="center" width="140">
             <img src="https://skillicons.dev/icons?i=spark" width="65"/><br />PySpark
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <br /> TensorFlow
         </td>
         <td align="center" width="140">
             <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="65"/><br />Snowflake
