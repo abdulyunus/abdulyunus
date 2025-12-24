@@ -3,10 +3,10 @@
 <img align="left" width="150" height="150" src="https://github.com/github/explore/raw/main/topics/octocat/octocat.png" alt="profile image">
 
 ### Hi, I'm Yunus 👋  
-![Profile Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0e75b6)
+![Profile Visitors](https://komarev.com/ghpvc/?username=abdulyunus&color=0e75b6)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-yunus-85655928/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdul.yg@gmail.com)
 
 ---
 
